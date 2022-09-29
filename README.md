@@ -5,4 +5,4 @@ The files "Pre-sessional Statistics Bootcamp MSc SRM.pdf" and "Pre-sessional Sta
 
 The file "WDI_Data.dta" is the dataset used in the course and the file "Bootcamp Days 1 and 2.do" is a do-file containing all code used during the workshop as well as example code for the student tasks. 
 
-This course was co-taught with Burak Sonmez. In case you have any questions, please contact me at d.wiertz@ucl.ac.uk. 
+This workshop was co-taught with Burak Sonmez. If you have any questions, please contact me at d.wiertz@ucl.ac.uk. 
